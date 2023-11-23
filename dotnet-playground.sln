@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minimal-apis", "minimal-apis\minimal-apis.csproj", "{43063A7C-D1B9-4AE6-9E65-1FCF5FB74CA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exception-handling", "exception-handling\exception-handling.csproj", "{B9C728F8-EDD0-4A95-ACD8-5A04D8B5FF11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43063A7C-D1B9-4AE6-9E65-1FCF5FB74CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43063A7C-D1B9-4AE6-9E65-1FCF5FB74CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43063A7C-D1B9-4AE6-9E65-1FCF5FB74CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43063A7C-D1B9-4AE6-9E65-1FCF5FB74CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C728F8-EDD0-4A95-ACD8-5A04D8B5FF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C728F8-EDD0-4A95-ACD8-5A04D8B5FF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C728F8-EDD0-4A95-ACD8-5A04D8B5FF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C728F8-EDD0-4A95-ACD8-5A04D8B5FF11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA7D073-5AC5-437C-81CF-FA10DE859B43}
+	EndGlobalSection
+EndGlobal
