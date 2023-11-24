@@ -1,0 +1,15 @@
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.deps.json
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.runtimeconfig.json
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.dll
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.pdb
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.csproj.AssemblyReference.cache
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.AssemblyInfoInputs.cache
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.AssemblyInfo.cs
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.dll
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/refint/ExceptionHandling.dll
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.pdb
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.genruntimeconfig.cache
+/Users/niallcarey/code/dotnet-playground/ExceptionHandling/obj/Debug/net7.0/ref/ExceptionHandling.dll
