@@ -14,3 +14,4 @@ using var loggerFactory = LoggerFactory.Create(builder =>
 ILogger logger = loggerFactory.CreateLogger<Program>();
 
 new StandardExceptionHandling(logger).ThrowEx();
+new CustomExceptionHandling(logger).ThrowEx();
