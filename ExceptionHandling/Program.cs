@@ -1,6 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Exceptions;
+using Microsoft.Extensions.Logging;
 
-Console.WriteLine("Hello, World!");
+using var loggerFactory = LoggerFactory.Create(builder =>
+        {
+            builder
+                .AddFilter("Microsoft", LogLevel.Warning)
+                .AddFilter("System", LogLevel.Warning)
+                .AddFilter("LoggingConsoleApp.Program", LogLevel.Debug)
+                .AddConsole();
+        });
 
-new StandardExceptionHandling().ThrowEx();
+ILogger logger = loggerFactory.CreateLogger<Program>();
+
+new StandardExceptionHandling(logger).ThrowEx();
